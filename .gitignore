@@ -1,0 +1,7 @@
+# ignore python files that are cached or
+# Byte-compiled /optimized/ DLL files
+__pycache__/
+*.py[cod]
+#
+# ignore ServiceAccount.json
+ServiceAccount.json
